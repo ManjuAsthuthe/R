@@ -1,0 +1,6 @@
+
+/* Class = "UILabel"; text = "お届けが完了しました。"; ObjectID = "9nV-de-f3d"; */
+"9nV-de-f3d.text" = "Delivery completed";
+
+/* Class = "UILabel"; text = "お届けがキャンセルされました。"; ObjectID = "g7G-qc-YTZ"; */
+"g7G-qc-YTZ.text" = "Your order has been cancelled";

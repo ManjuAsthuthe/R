@@ -1,0 +1,540 @@
+[
+  {
+    "appId": "419267350",
+    "alternativeName": "市場",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/a99f2806-e9eb-474a-85c3-54ca86509e8f-ichiba.png",
+    "launchInfo": "rakuten-ichiba-app://www.rakuten.co.jp/home/?source=rem_discover",
+    "ssoEnabled": true,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "楽天市場 ショッピング・通販アプリ お買い物でポイントが貯まる・使える",
+    "description": "",
+    "icon": "http://is3.mzstatic.com/image/thumb/Purple111/v4/4e/c4/84/4ec48426-9729-2bac-e9b5-889f6694b13c/source/512x512bb.jpg",
+    "storeUrl": "http://www.rakuten.co.jp/",
+    "averageRating": 4,
+    "numRatings": 25381
+  },
+  {
+    "appId": "911334571",
+    "alternativeName": "ﾎﾟｲﾝﾄｶｰﾄﾞ",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/5d4601b9-a170-4ed0-a140-bbc92ee8bdb7-point1.png",
+    "launchInfo": "pointpartner://",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "楽天ポイントカード（RakutenPointCard）",
+    "description": "",
+    "icon": "http://is3.mzstatic.com/image/thumb/Purple71/v4/c0/fa/83/c0fa8323-486d-566f-bd8d-ebd37aeb4d20/source/512x512bb.jpg",
+    "storeUrl": "http://point.rakuten.co.jp/rpointcard/",
+    "averageRating": 3.5,
+    "numRatings": 1630
+  },
+  {
+    "appId": "641501350",
+    "alternativeName": " ﾎﾟｲﾝﾄｸﾗﾌﾞ",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/e4bae5ca-7f3f-40cd-b9a9-274b0b625904-pointclub.png",
+    "launchInfo": "pointclub://",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "楽天ポイント管理アプリ～楽天PointClub～",
+    "description": "",
+    "icon": "http://is2.mzstatic.com/image/thumb/Purple62/v4/60/b7/40/60b74089-7c5e-a8d8-f5bf-00dd6c4e05f5/source/512x512bb.jpg",
+    "storeUrl": "https://point.rakuten.co.jp/",
+    "averageRating": 3,
+    "numRatings": 3671
+  },
+  {
+    "appId": "632614824",
+    "alternativeName": "ゴルフ予約",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/59280b20-64fd-4871-8370-41fcc67280e2-golf.png",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "ゴルフ場検索/スコア管理 - 楽天GORA（ゴーラ）",
+    "description": "",
+    "icon": "http://is1.mzstatic.com/image/thumb/Purple71/v4/48/4d/74/484d74dc-18db-4c06-6686-36d56ad02e29/source/512x512bb.jpg",
+    "storeUrl": "http://gora.golf.rakuten.co.jp/smart/iphone_top.html",
+    "averageRating": 4,
+    "numRatings": 698
+  },
+  {
+    "appId": "551951433",
+    "alternativeName": "ダイニング",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/f11d6bcf-dd43-41f8-a41c-800622cc3ffb-dining.png",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "楽天ダイニング -グルメ検索アプリ　外食でポイントが貯まる",
+    "description": "",
+    "icon": "http://is4.mzstatic.com/image/thumb/Purple71/v4/4d/d1/3b/4dd13b43-5bab-d743-ba53-d06826be4e6e/source/512x512bb.jpg",
+    "storeUrl": "http://dining.rakuten.co.jp/",
+    "averageRating": 3.5,
+    "numRatings": 49
+  },
+  {
+    "appId": "570105907",
+    "alternativeName": "カード",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/4d3dfa97-07fe-4f61-8d64-09f5a3728ae7-card.png",
+    "launchInfo": "rakutencard:",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "楽天カード",
+    "description": "",
+    "icon": "http://is4.mzstatic.com/image/thumb/Purple62/v4/b8/bb/b4/b8bbb4cc-5320-8bf1-3a04-c030ba979610/source/512x512bb.jpg",
+    "storeUrl": "http://www.rakuten-card.co.jp/smart/",
+    "averageRating": 4,
+    "numRatings": 12093
+  },
+  {
+    "appId": "391048295",
+    "alternativeName": "銀行",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/d3bbde07-aa7a-4f71-b627-d499f84051d0-bank.png",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "楽天銀行",
+    "description": "",
+    "icon": "http://is1.mzstatic.com/image/thumb/Purple71/v4/8e/59/91/8e59917f-9016-8a9d-060d-d91ce0954c28/source/512x512bb.jpg",
+    "storeUrl": "http://www.rakuten-bank.co.jp/smartphone/index.html",
+    "averageRating": 4,
+    "numRatings": 2858
+  },
+  {
+    "appId": "389339704",
+    "alternativeName": "証券",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/3f5dbdcf-f30d-4913-acd6-8b714777ad8c-security_ispeed.png",
+    "launchInfo": "ispeed://",
+    "ssoEnabled": true,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "iSPEED（アイスピード）– 楽天証券の株・株価アプリ",
+    "description": "",
+    "icon": "http://is5.mzstatic.com/image/thumb/Purple71/v4/8f/e5/a0/8fe5a052-6c0b-57e6-c4ac-26c246edbb12/source/512x512bb.jpg",
+    "storeUrl": "https://www.rakuten-sec.co.jp/smartphone/",
+    "averageRating": 3,
+    "numRatings": 1085
+  },
+  {
+    "appId": "1069806872",
+    "alternativeName": "生命保険",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/03d3c7a5-8e92-409d-89aa-ebd713a7eb35-Net-insurance-desk.png",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "楽天生命の保険相談アプリ - チャットで気軽に無料保険相談 - ネット保険デスク",
+    "description": "",
+    "icon": "http://is4.mzstatic.com/image/thumb/Purple20/v4/20/c3/2c/20c32cd7-ae16-3883-5506-a459a7da7287/source/512x512bb.jpg",
+    "storeUrl": "http://www.rakuten-life.co.jp/",
+    "averageRating": 0,
+    "numRatings": 0
+  },
+  {
+    "appId": "1139755229",
+    "alternativeName": "楽天ペイ",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/b4ce3ec5-e636-4f3a-9e45-d3ab989c22b3-rpay.png",
+    "launchInfo": "rakutenpay://",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": "2016-12-15T00:00:00Z",
+      "end": "2017-01-15T00:00:00Z"
+    },
+    "name": "楽天ペイ スマホだけでお支払いOKな新サービス",
+    "description": "",
+    "icon": "http://is4.mzstatic.com/image/thumb/Purple111/v4/24/c5/58/24c5582a-5a3b-a803-b8a2-35c8ebcbc391/source/512x512bb.jpg",
+    "storeUrl": "https://pay.rakuten.co.jp/",
+    "averageRating": 3.5,
+    "numRatings": 48
+  },
+  {
+    "appId": "928453590",
+    "alternativeName": "ラクマ",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/3d62de94-ab73-4717-ad12-650df22cf1f9-rakuma.png",
+    "launchInfo": "ra9ma://launch",
+    "ssoEnabled": true,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "フリマアプリ ラクマ-出品手数料無料の楽天のアプリ",
+    "description": "",
+    "icon": "http://is5.mzstatic.com/image/thumb/Purple71/v4/3f/c8/ed/3fc8ed39-ff4f-ca94-5f06-b549b66ae57d/source/512x512bb.jpg",
+    "storeUrl": "http://rakuma.rakuten.co.jp/",
+    "averageRating": 4,
+    "numRatings": 6204
+  },
+  {
+    "appId": "892359812",
+    "alternativeName": "ROOM",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/bd486643-4e21-4b52-bd34-853aa1bf3487-room_new.png",
+    "launchInfo": "rakutenroom://",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "ROOM　すきなモノが見つかる楽天のショッピングアプリ！",
+    "description": "",
+    "icon": "http://is2.mzstatic.com/image/thumb/Purple111/v4/67/4b/20/674b200d-c74c-0004-1e62-4b78dd34a0b3/source/512x512bb.jpg",
+    "storeUrl": "https://room.rakuten.co.jp/",
+    "averageRating": 3.5,
+    "numRatings": 564
+  },
+  {
+    "appId": "1062797715",
+    "alternativeName": "買取",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/7f9f8de9-b14f-473a-b550-cdf0f2a020c6-buyback.png",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "楽天買取",
+    "description": "",
+    "icon": "http://is4.mzstatic.com/image/thumb/Purple111/v4/14/f3/cc/14f3ccb5-aaab-88b5-bbe8-bc21ec10300d/source/512x512bb.jpg",
+    "storeUrl": "http://buyback.rakuten.co.jp/",
+    "averageRating": 2,
+    "numRatings": 5
+  },
+  {
+    "appId": "941571455",
+    "alternativeName": "買うｸｰﾎﾟﾝ",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/d9862d5e-f216-41f8-9519-a383e1fbdf9d-coupon.png",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "楽天　買うクーポン　いつものお買い物を割引価格で！",
+    "description": "",
+    "icon": "http://is2.mzstatic.com/image/thumb/Purple71/v4/8b/5e/3e/8b5e3eed-a9a1-3c5c-0a85-2ed1e4509792/source/512x512bb.jpg",
+    "storeUrl": "http://coupon.rakuten.co.jp/",
+    "averageRating": 3.5,
+    "numRatings": 76
+  },
+  {
+    "appId": "840780040",
+    "alternativeName": "チェック",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/05b22106-b972-45e7-acff-c7d0bcb1c6ad-check.png",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "楽天チェック：来店するだけで楽天スーパーポイントが貯まる無料アプリ",
+    "description": "",
+    "icon": "http://is2.mzstatic.com/image/thumb/Purple71/v4/66/98/ae/6698ae05-3ade-25ef-afd3-a4dcb1ac2cc3/source/512x512bb.jpg",
+    "storeUrl": "https://itunes.apple.com/jp/app/le-tianchekku-lai-diansurudakede/id840780040?mt=8&uo=4",
+    "averageRating": 3.5,
+    "numRatings": 468
+  },
+  {
+    "appId": "1045692914",
+    "alternativeName": "デリバリー",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/2f5ae505-f975-41cd-950f-590dfd5261a9-delivery.png",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "楽天デリバリー",
+    "description": "",
+    "icon": "http://is3.mzstatic.com/image/thumb/Purple71/v4/ec/a5/d9/eca5d92c-8314-c74c-7b4f-26b189d4a98d/source/512x512bb.jpg",
+    "storeUrl": "http://delivery.rakuten.co.jp/",
+    "averageRating": 4.5,
+    "numRatings": 144
+  },
+  {
+    "appId": "1063658017",
+    "alternativeName": "ｶｰﾗｲﾌ",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/ede9bce2-5762-4001-969d-48bb2ced3246-Car-life.png",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "楽天カーライフ－楽天ポイントが貯まるガソリンスタンド検索アプリ",
+    "description": "",
+    "icon": "http://is2.mzstatic.com/image/thumb/Purple111/v4/b4/b1/bb/b4b1bbac-58ba-9e47-4199-375dd83dfb62/source/512x512bb.jpg",
+    "storeUrl": "http://shaken.rakuten.co.jp/carlifeapp/",
+    "averageRating": 3.5,
+    "numRatings": 9
+  },
+  {
+    "appId": "445304598",
+    "alternativeName": "レシピ",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/0cbb94d7-5a2e-449e-a9a6-f987df35a1f8-recipe.png",
+    "ssoEnabled": true,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "楽天レシピ",
+    "description": "",
+    "icon": "http://is2.mzstatic.com/image/thumb/Purple19/v4/68/85/78/68857849-7b9b-283d-9ba1-e2eb056233b4/source/512x512bb.jpg",
+    "storeUrl": "http://recipe.rakuten.co.jp/",
+    "averageRating": 3.5,
+    "numRatings": 559
+  },
+  {
+    "appId": "1050568386",
+    "alternativeName": "FM",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/974b1a4a-4180-4c88-a8e6-f69e1ebf7671-FM.png",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "Rakuten.FM（楽天エフエム） - インターネットラジオ無料アプリ",
+    "description": "",
+    "icon": "http://is5.mzstatic.com/image/thumb/Purple71/v4/2b/db/15/2bdb1561-24cb-d71c-c87e-97acb06ffcc2/source/512x512bb.jpg",
+    "storeUrl": "http://rakuten.fm/",
+    "averageRating": 4,
+    "numRatings": 6
+  },
+  {
+    "appId": "771597316",
+    "alternativeName": "Gateway",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/07102ef0-5c1b-454c-b1f3-a6a2c66c3e02-gateway.PNG",
+    "launchInfo": "rakutengateway://",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "トレンド情報がつまった公式無料ポータルアプリ:楽天gateway",
+    "description": "",
+    "icon": "http://is5.mzstatic.com/image/thumb/Purple111/v4/94/2c/c2/942cc272-444b-b160-3880-65fcf76190e1/source/512x512bb.jpg",
+    "storeUrl": "http://gateway.rakuten.co.jp/",
+    "averageRating": 4,
+    "numRatings": 885
+  },
+  {
+    "appId": "1075673557",
+    "alternativeName": "ニュース",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/e7c4f91c-9247-4bc1-98fb-a3f524f7dd64-infoseek.png",
+    "ssoEnabled": true,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "楽天Infoseekニュース-速報、芸能スクープなど満載",
+    "description": "",
+    "icon": "http://is3.mzstatic.com/image/thumb/Purple111/v4/67/38/88/673888bb-bef4-2ab3-ccd7-dd2333647ed8/source/512x512bb.jpg",
+    "storeUrl": "http://www.infoseek.co.jp/",
+    "averageRating": 0,
+    "numRatings": 0
+  },
+  {
+    "appId": "580358124",
+    "alternativeName": "Web検索",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/1b6208ce-cb1d-4bef-a929-8ac0648244a3-Web-search.png",
+    "launchInfo": "rakuten-toolbar://",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "楽天ウェブ検索-楽天スーパーポイントが貯まる、稼げるブラウザ",
+    "description": "",
+    "icon": "http://is1.mzstatic.com/image/thumb/Purple62/v4/94/48/bb/9448bb8d-3328-4b37-280c-17f80209d60d/source/512x512bb.jpg",
+    "storeUrl": "http://websearch.rakuten.co.jp/",
+    "averageRating": 3.5,
+    "numRatings": 812
+  },
+  {
+    "appId": "563447450",
+    "alternativeName": "ﾗｯｷｰくじ",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/02e2a9e1-4bd5-493e-9371-a4f501d282b5-luckykuji.png",
+    "ssoEnabled": true,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "毎日無料！楽天ラッキーくじ",
+    "description": "",
+    "icon": "http://is3.mzstatic.com/image/thumb/Purple71/v4/0a/73/c1/0a73c10e-edee-e125-5787-fcdc65d5e818/source/512x512bb.jpg",
+    "storeUrl": "https://itunes.apple.com/jp/app/mei-ri-wu-liao!-le-tianrakkikuji/id563447450?mt=8&uo=4",
+    "averageRating": 4,
+    "numRatings": 3352
+  },
+  {
+    "appId": "1053550174",
+    "alternativeName": "Beauty",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/9a6c5af8-8e49-49e1-a62f-083778918723-beauty.png",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "あなたにピッタリのサロンが検索できるビューティ＆リラクサロン検索・予約サイト",
+    "description": "",
+    "icon": "http://is3.mzstatic.com/image/thumb/Purple62/v4/d0/d0/4a/d0d04a7f-0903-ac10-89c6-159439483bdf/source/512x512bb.jpg",
+    "storeUrl": "http://beauty.rakuten.co.jp/",
+    "averageRating": 3.5,
+    "numRatings": 9
+  },
+  {
+    "appId": "1057118840",
+    "alternativeName": "Picmarry",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/3eb2536b-c5ee-47a4-8511-f99978d0962a-picmarry.png",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "Picmarry [ピクマリ] - 楽天のフォトウェディング(結婚写真)アプリ",
+    "description": "",
+    "icon": "http://is3.mzstatic.com/image/thumb/Purple20/v4/18/54/27/18542761-a8d8-acd3-038d-60fc4f9c6e9c/source/512x512bb.jpg",
+    "storeUrl": "http://wedding.rakuten.co.jp/picmarry/",
+    "averageRating": 5,
+    "numRatings": 14
+  },
+  {
+    "appId": "379384528",
+    "alternativeName": "リサーチ",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/c4e1b5db-edcc-4c6f-a28f-5880c2af250b-research.png",
+    "ssoEnabled": true,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "楽天リサーチ",
+    "description": "",
+    "icon": "http://is5.mzstatic.com/image/thumb/Purple71/v4/47/4f/25/474f252f-b9ba-79af-9e04-7edc3b0c182a/source/512x512bb.jpg",
+    "storeUrl": "http://monitor.research.rakuten.co.jp/",
+    "averageRating": 2,
+    "numRatings": 141
+  },
+  {
+    "appId": "771559073",
+    "alternativeName": "宝くじ",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/5e66439e-76bd-4d3d-b8c1-e5538c56b171-numbers.png",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "楽天×宝くじ",
+    "description": "",
+    "icon": "http://is2.mzstatic.com/image/thumb/Purple71/v4/3d/cf/fe/3dcffed6-ad16-da40-6c2c-146ef3439359/source/512x512bb.jpg",
+    "storeUrl": "https://takarakuji.rakuten.co.jp/",
+    "averageRating": 4,
+    "numRatings": 15
+  },
+  {
+    "appId": "560954040",
+    "alternativeName": "億ピタ",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/5bffacf9-231c-4bb2-be90-720209017936-big.png",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "億ピタ",
+    "description": "",
+    "icon": "http://is1.mzstatic.com/image/thumb/Purple71/v4/85/0c/46/850c4601-218b-702e-8323-0d0bff8bdf97/source/512x512bb.jpg",
+    "storeUrl": "https://toto.rakuten.co.jp/",
+    "averageRating": 2,
+    "numRatings": 66
+  },
+  {
+    "appId": "847259091",
+    "alternativeName": "銀行FX",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/2c0548e5-d6bb-4e8c-96a5-90232ddd8e3c-bank_FX.png",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "楽天銀行FX",
+    "description": "",
+    "icon": "http://is5.mzstatic.com/image/thumb/Purple42/v4/67/12/65/6712656c-648a-2b21-4c54-c12d6dec3d8a/source/512x512bb.jpg",
+    "storeUrl": "http://www.rakuten-bank.co.jp/smartphone/assets/fx/",
+    "averageRating": 2.5,
+    "numRatings": 19
+  },
+  {
+    "appId": "382617920",
+    "alternativeName": "Viber",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/46763811-07ea-4d7e-ac3e-b085ba072cc8-viber.png",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "Viber",
+    "description": "",
+    "icon": "http://is5.mzstatic.com/image/thumb/Purple71/v4/b3/53/63/b35363a8-7230-1900-1392-70d23d6df11f/source/512x512bb.jpg",
+    "storeUrl": "https://viber.co.jp/",
+    "averageRating": 4,
+    "numRatings": 11534
+  },
+  {
+    "appId": "931348377",
+    "alternativeName": "楽天ﾓﾊﾞｲﾙ",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/f493bfb4-a5ff-45ec-aa1c-a722c493c237-mobile1.png",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "楽天モバイル SIMアプリ",
+    "description": "",
+    "icon": "http://is5.mzstatic.com/image/thumb/Purple22/v4/32/4e/34/324e341b-f656-2dce-56f5-3e55f0b44752/source/512x512bb.jpg",
+    "storeUrl": "http://mobile.rakuten.co.jp/",
+    "averageRating": 3.5,
+    "numRatings": 804
+  },
+  {
+    "appId": "740461504",
+    "alternativeName": "でんわ",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/411fd27c-dd30-42f2-b69a-fd16a2f3cbfe-denwa1.png",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "楽天でんわ　-番号そのままで通話料がお得-",
+    "description": "",
+    "icon": "http://is2.mzstatic.com/image/thumb/Purple71/v4/8d/ba/91/8dba91d0-ce77-fdb1-beeb-3a753043986d/source/512x512bb.jpg",
+    "storeUrl": "http://denwa.rakuten.co.jp/",
+    "averageRating": 4,
+    "numRatings": 1858
+  },
+  {
+    "appId": "963496965",
+    "alternativeName": "Eagles",
+    "alternativeIcon": "https://imageapi-prd-japaneast.azurewebsites.net/iapi/mosapps/96391043-13ab-4f52-be98-94411861e2f2-eagles.png",
+    "ssoEnabled": false,
+    "markNew": {
+      "start": null,
+      "end": null
+    },
+    "name": "At Eagles",
+    "description": "",
+    "icon": "http://is4.mzstatic.com/image/thumb/Purple71/v4/1f/b0/f2/1fb0f23e-c02d-6170-d3b5-85e4c29cfe42/source/512x512bb.jpg",
+    "storeUrl": "http://sp.rakuteneagles.jp/",
+    "averageRating": 3.5,
+    "numRatings": 86
+  }
+]

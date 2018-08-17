@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aps-environment</key>
+	<string>development</string>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:rakubin.rakuten.co.jp</string>
+		<string>applinks:9lx2.adj.st</string>
+	</array>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>5J4GVGN58B.jp.co.rakuten.omutsuexp.ent</string>
+		<string>5J4GVGN58B.jp.co.rakuten.sdtd.sso</string>
+		<string>5J4GVGN58B.jp.co.rakuten.ios.sdk.deviceinformation</string>
+	</array>
+</dict>
+</plist>

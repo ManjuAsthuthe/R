@@ -1,0 +1,163 @@
+
+/* Class = "UITextField"; placeholder = "楽天会員IDを入力してください"; ObjectID = "2JX-2j-T1W"; */
+"2JX-2j-T1W.placeholder" = "Please enter your Rakuten ID";
+
+/* Class = "UIButton"; normalTitle = "検索"; ObjectID = "9rL-LX-fai"; */
+"9rL-LX-fai.normalTitle" = "Search";
+
+/* Class = "UILabel"; text = "(1000文字まで)"; ObjectID = "AhS-wS-33i"; */
+"AhS-wS-33i.text" = "Under 1000 characters";
+
+/* Class = "UILabel"; text = "注文番号:"; ObjectID = "C1q-d0-ypg"; */
+"C1q-d0-ypg.text" = "Order No.: ";
+
+/* Class = "UILabel"; text = "ご注文ありがとうございました！"; ObjectID = "CBH-WE-I3L"; */
+"CBH-WE-I3L.text" = "Thank you for your order!";
+
+/* Class = "UIButton"; normalTitle = "この住所を選択する"; ObjectID = "Elf-Qb-2Tz"; */
+"Elf-Qb-2Tz.normalTitle" = "Select this address";
+
+/* Class = "UILabel"; text = "現在、注文はありません。"; ObjectID = "Fnn-Vj-M7o"; */
+"Fnn-Vj-M7o.text" = "There are no orders right now";
+
+/* Class = "UILabel"; text = "お届け直前や緊急時に、以下の電話番号からご連絡させていただきます。"; ObjectID = "GZE-vP-yQ9"; */
+"GZE-vP-yQ9.text" = "Right before delivering your products or in case of an emergency, we will call you from the following number:";
+
+/* Class = "UILabel"; text = "オートログインを有効にする"; ObjectID = "HBv-tb-b0g"; */
+"HBv-tb-b0g.text" = "Enable auto-login";
+
+/* Class = "UIButton"; normalTitle = "注文詳細を見る"; ObjectID = "Hnx-hB-UYn"; */
+"Hnx-hB-UYn.normalTitle" = "Order details";
+
+/* Class = "UILabel"; text = "楽天会員ID、もしくはパスワードが違います。"; ObjectID = "HpN-rB-pFg"; */
+"HpN-rB-pFg.text" = "Incorrect user ID or password";
+
+/* Class = "UIButton"; normalTitle = "ショッピングを続ける"; ObjectID = "KhI-94-r3H"; */
+"KhI-94-r3H.normalTitle" = "Continue shopping";
+
+/* Class = "UIButton"; normalTitle = "商品を見る"; ObjectID = "MXv-hk-ljn"; */
+"MXv-hk-ljn.normalTitle" = "Details";
+
+/* Class = "UIButton"; normalTitle = "楽天会員ID・パスワードを忘れた方はこちら"; ObjectID = "NKL-ud-xQ7"; */
+"NKL-ud-xQ7.normalTitle" = "Forgot my ID and/or password";
+
+/* Class = "UITextView"; text = "できる限り詳しくお聞かせください。"; ObjectID = "Ov9-ZC-qOk"; */
+"Ov9-ZC-qOk.text" = "Please provide details";
+
+/* Class = "UIButton"; normalTitle = "送信する"; ObjectID = "PSx-1n-110"; */
+"PSx-1n-110.normalTitle" = "Send";
+
+/* Class = "UIButton"; normalTitle = "検索"; ObjectID = "RdD-1W-6YF"; */
+"RdD-1W-6YF.normalTitle" = "Search";
+
+/* Class = "UIButton"; normalTitle = "別の楽天会員IDでログイン"; ObjectID = "Rmy-30-MnB"; */
+"Rmy-30-MnB.normalTitle" = "Log in with another ID >";
+
+/* Class = "UIButton"; normalTitle = "ログイン"; ObjectID = "U0g-RW-5Eo"; */
+"U0g-RW-5Eo.normalTitle" = "Log in";
+
+/* Class = "UIButton"; normalTitle = "ヘルプ"; ObjectID = "Vrb-H5-wxy"; */
+"Vrb-H5-wxy.normalTitle" = "Help";
+
+/* Class = "UILabel"; text = "この電話番号はこの注文のみ適用します。"; ObjectID = "WOT-0o-K9t"; */
+"WOT-0o-K9t.text" = "This phone number is used exclusively for this order";
+
+/* Class = "UIButton"; normalTitle = "利用規約に同意する"; ObjectID = "X4m-cS-Ifr"; */
+"X4m-cS-Ifr.normalTitle" = "I agree to the terms of service";
+
+/* Class = "UIButton"; normalTitle = "送信する"; ObjectID = "ZQV-0Y-3M8"; */
+"ZQV-0Y-3M8.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "（2017年2月13日改定）"; ObjectID = "aPz-LD-6sI"; */
+"aPz-LD-6sI.text" = "Updated on 2017/02/13";
+
+/* Class = "UILabel"; text = "（2017年2月13日改定）"; ObjectID = "atY-kb-6fn"; */
+"atY-kb-6fn.text" = "Updated on 2017/02/13";
+
+/* Class = "UILabel"; text = "位置情報サービスをオンに\n"; ObjectID = "byq-Yb-mwt"; */
+"byq-Yb-mwt.text" = "Please turn on location services";
+
+/* Class = "UILabel"; text = "ログイン"; ObjectID = "c9o-gK-yQr"; */
+"c9o-gK-yQr.text" = "Log in";
+
+/* Class = "UIButton"; normalTitle = "詳細を見る＞"; ObjectID = "dNC-EC-KpI"; */
+"dNC-EC-KpI.normalTitle" = "Details";
+
+/* Class = "UIButton"; normalTitle = "エリア拡大のお知らせを受け取る"; ObjectID = "dSr-Bn-LiX"; */
+"dSr-Bn-LiX.normalTitle" = "I would like to be notified about delivery area expantions";
+
+/* Class = "UILabel"; text = "配達員からのご連絡\t"; ObjectID = "dZT-Za-tlV"; */
+"dZT-Za-tlV.text" = "Contact information";
+
+/* Class = "UIButton"; normalTitle = "この住所を選択する"; ObjectID = "gcw-qQ-p69"; */
+"gcw-qQ-p69.normalTitle" = "Select this address";
+
+/* Class = "UILabel"; text = "[前回のお届け先]"; ObjectID = "giT-fD-Wh3"; */
+"giT-fD-Wh3.text" = "[Previous addresses]";
+
+/* Class = "UILabel"; text = "お問い合わせ内容"; ObjectID = "hCy-Vr-llF"; */
+"hCy-Vr-llF.text" = "Request contents";
+
+/* Class = "UIButton"; normalTitle = "個人情報保護方針"; ObjectID = "hiF-L7-C5h"; */
+"hiF-L7-C5h.normalTitle" = "Privacy policy";
+
+/* Class = "UITextField"; placeholder = "パスワードを入力してください"; ObjectID = "iOq-Ay-RW5"; */
+"iOq-Ay-RW5.placeholder" = "Please enter your password";
+
+/* Class = "UILabel"; text = "おかえりなさい！"; ObjectID = "jcP-H4-J1d"; */
+"jcP-H4-J1d.text" = "Welcome back!";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "lzQ-eg-XDH"; */
+"lzQ-eg-XDH.placeholder" = "Search";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "pBx-fH-1HL"; */
+"pBx-fH-1HL.placeholder" = "Search";
+
+/* Class = "UIButton"; normalTitle = "お届けエリアへ"; ObjectID = "qse-lK-053"; */
+"qse-lK-053.normalTitle" = "Delivery area";
+
+/* Class = "UILabel"; text = "アプリにはご満足いただけましたか？"; ObjectID = "rO1-bp-dC7"; */
+"rO1-bp-dC7.text" = "Do you like our app?";
+
+/* Class = "UILabel"; text = "商品のお届け先を決めると、ショッピングへ進むことができます。\nお客様のご注文をお待ちしております。"; ObjectID = "rct-yy-XsP"; */
+"rct-yy-XsP.text" = "Once you select your delivery address, you can start shopping!\n We eagerly await your orders!";
+
+/* Class = "UILabel"; text = "お届け時間について"; ObjectID = "tSR-ID-0ha"; */
+"tSR-ID-0ha.text" = "Delivery hours";
+
+/* Class = "UILabel"; text = "お問い合わせタイトル"; ObjectID = "tut-BU-0zz"; */
+"tut-BU-0zz.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "利用規約"; ObjectID = "uI5-dN-ucP"; */
+"uI5-dN-ucP.normalTitle" = "Terms of service";
+
+/* Class = "UILabel"; text = "に同意してログイン"; ObjectID = "vII-iO-FqE"; */
+"vII-iO-FqE.text" = "Agree and log in";
+
+/* Class = "UILabel"; text = "に同意してログイン"; ObjectID = "wFV-NL-Lcd"; */
+"wFV-NL-Lcd.text" = "Agree and log in";
+
+/* Class = "UIButton"; disabledTitle = "利用規約に同意してログイン"; ObjectID = "xa7-JN-DQb"; */
+"xa7-JN-DQb.disabledTitle" = "Agree to the terms of service and log in";
+
+/* Class = "UIButton"; normalTitle = "利用規約に同意してログイン"; ObjectID = "xa7-JN-DQb"; */
+"xa7-JN-DQb.normalTitle" = "Agree to the terms of service and log in";
+
+/* Class = "UILabel"; text = "※地図で場所設定ができませんでした。"; ObjectID = "y9l-Io-7Gk"; */
+"y9l-Io-7Gk.text" = "Could not set your location on the map";
+
+/* Class = "UIButton"; normalTitle = "楽天会員に登録（無料）"; ObjectID = "yPQ-SA-YM2"; */
+"yPQ-SA-YM2.normalTitle" = "Register a Rakuten ID (free)";
+
+/* Class = "UIButton"; normalTitle = "はじめる"; ObjectID = "z3h-q0-zMB"; */
+"z3h-q0-zMB.normalTitle" = "Start";
+
+"LGT-tq-szn.normalTitle" = "Privacy policy";
+
+"kmk-Ro-1Sl.normalTitle" = "Privacy policy";
+
+"yau-Vj-xdW.text" = "The delivery staff will call you right before delivery or in case of an emergency.";
+
+"6zI-IU-CIn.text" = "e.g.: 09012345678";
+
+"JUk-fY-MfK.text" = "Incorrect user ID or password";

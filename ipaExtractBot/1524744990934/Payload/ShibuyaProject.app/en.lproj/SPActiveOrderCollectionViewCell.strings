@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "個数:"; ObjectID = "EeX-Qq-Rt8"; */
+"EeX-Qq-Rt8.text" = "No. of items: ";
+
+/* Class = "UILabel"; text = "総合計:"; ObjectID = "VxP-4c-JvH"; */
+"VxP-4c-JvH.text" = "Grand total: ";
+
+/* Class = "UILabel"; text = "(税込)"; ObjectID = "Yep-mg-lsp"; */
+"Yep-mg-lsp.text" = "(Tax incl.)";

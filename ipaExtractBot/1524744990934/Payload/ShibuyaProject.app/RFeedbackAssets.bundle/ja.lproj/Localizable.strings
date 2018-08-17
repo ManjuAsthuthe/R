@@ -1,0 +1,73 @@
+/**********************/
+/* Navigation strings */
+/**********************/
+
+"feedback.navigation.close-button.title"   = "閉じる";
+"feedback.navigation.back-button.title"    = "戻る";
+"feedback.navigation.preview-button.title" = "プレビュー";
+"feedback.navigation.send-button.title"    = "送る";
+
+
+/*********************/
+/* Main menu strings */
+/*********************/
+
+"feedback.main-menu.title"                     = "ご意見を送信";
+"feedback.main-menu.rate-application.title"    = "ご意見を送信";
+"feedback.main-menu.rate-application.subtitle" = "アプリについてのご意見をご共有いただけます";
+"feedback.main-menu.request-feature.title"     = "ご要望を送信";
+"feedback.main-menu.request-feature.subtitle"  = "アプリについてのご要望をご共有いただけます";
+"feedback.main-menu.report-bug.title"          = "不具合の報告";
+"feedback.main-menu.report-bug.subtitle"       = "アプリの使用中に発覚された不具合をご報告いただけます";
+
+
+/***********************/
+/* Rating view strings */
+/***********************/
+
+"feedback.rate-application.title"                     = "ご意見・評価";
+"feedback.rate-application.rating-field.title"        = "評価";
+"feedback.rate-application.comment-field.title"       = "コメント";
+"feedback.rate-application.comment-field.placeholder" = "コメント（必須）";
+
+
+/********************************/
+/* Feature request view strings */
+/********************************/
+
+"feedback.request-feature.title"                     = "ご要望";
+"feedback.request-feature.feature-field.title"       = "ご要望";
+"feedback.request-feature.feature-field.placeholder" = "ご要望（必須）";
+"feedback.request-feature.comment-field.title"       = "内容";
+"feedback.request-feature.comment-field.placeholder" = "内容（任意）";
+
+
+/***************************/
+/* Bug report view strings */
+/***************************/
+
+"feedback.report-bug.title"             = "不具合の報告";
+"feedback.report-bug.field.title"       = "不具合";
+"feedback.report-bug.field.placeholder" = "内容（必須）";
+
+
+/************************/
+/* Preview view strings */
+/************************/
+
+"feedback.preview.title"                    = "内容プレビュー";
+"feedback.preview.type.title"               = "種類";
+"feedback.preview.type.rating"              = "評価";
+"feedback.preview.type.feature-request"     = "追加機能";
+"feedback.preview.type.bug-report"          = "バグレポート";
+"feedback.preview.item.title.title"         = "題名";
+"feedback.preview.item.comment.title"       = "コメント";
+"feedback.preview.item.rating.title"        = "評価";
+"feedback.preview.item.rating.value-format" = "%@/5個";
+"feedback.preview.item.attachment.title"    = "添付データ";
+"feedback.preview.app.id.title"             = "アプリID";
+"feedback.preview.app.version.title"        = "アプリバージョン番号";
+"feedback.preview.operating-system.title"   = "OSバージョン番号";
+"feedback.preview.device.id.title"          = "ディバイスID";
+"feedback.preview.device.model.title"       = "機種";
+"feedback.preview.region.title"             = "ロケールID";

@@ -1,0 +1,7 @@
+"ping.application-too-old.title" = "更新のお願い";
+"ping.application-too-old.not-supported-anymore(application)" = "大変申し訳ございませんが、\U2028『<application>%@</application>』の現行バージョンが廃止されたため、これ以上使用できません。";
+"ping.application-too-old.not-available" = "<strong>アプリはまだ公開されてないため、\U2028ボタンを押せば楽天のウェブサイトをブラウザで開きます。</strong>";
+"ping.application-too-old.new-version-available" = "新バージョンが入手可能です。\U2028アプリを使用するには更新が必要です。";
+"ping.application-too-old.os-update-required(version)" = "新バージョンをご利用いただくには、\U2028<version>iOS %@</version>への更新が必要です。";
+"ping.application-too-old.update-application-button.title" = "更新する";
+

@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "個数:"; ObjectID = "EeX-Qq-Rt8"; */
+"EeX-Qq-Rt8.text" = "個数: ";
+
+/* Class = "UILabel"; text = "総合計:"; ObjectID = "VxP-4c-JvH"; */
+"VxP-4c-JvH.text" = "総合計: ";
+
+/* Class = "UILabel"; text = "(税込)"; ObjectID = "pyU-mE-UC7"; */
+"pyU-mE-UC7.text" = "(税込)";

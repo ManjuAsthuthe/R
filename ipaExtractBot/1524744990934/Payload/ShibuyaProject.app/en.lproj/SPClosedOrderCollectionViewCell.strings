@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "注文日時"; ObjectID = "8r6-Y7-klD"; */
+"8r6-Y7-klD.text" = "Order date: ";
+
+/* Class = "UILabel"; text = "総合計"; ObjectID = "x1v-Sm-uvc"; */
+"x1v-Sm-uvc.text" = "Grand total: ";
+
+/* Class = "UILabel"; text = "個数:"; ObjectID = "zGe-En-LwF"; */
+"zGe-En-LwF.text" = "No. of items: ";

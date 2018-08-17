@@ -1,0 +1,113 @@
+html, body{
+	width:100%; height: 100%; padding: 0; margin: 0; 
+}
+
+#video {
+	display: none; 
+}
+
+#screen { 
+	height: 100%; 
+	padding: 0; 
+	margin: 0; 
+	background: rgba(0,0,0,0);
+	position: absolute;
+}
+
+button {
+	cursor: pointer; 
+	border-radius: 1.6em; 
+	width: 1.6em; 
+	height: 1.6em; 
+	font-size: 3em;
+	background-color: white;
+	border: none;
+	outline: 0;
+	padding: 0;
+	margin: 0;
+	opacity: 0.7;
+}
+
+button:hover {
+	opacity: 1;
+}
+
+#play {
+	position: absolute;
+	bottom: 1em;
+	right: 1em;
+}
+
+                .form-logs {
+                    height: 100vh;
+                }
+                .screen-video {
+                    background-image: url(bg1.png);
+                    height: 100vh;
+                }
+                .formSubmit {
+                    padding: 10px 61px 27px 13px;
+                    margin: 12px 0;
+                    /* background-color: transparent; */
+                    color: #0a0a0a;
+                }
+                .installAPK {
+                    padding: 10px 95px 27px 31px; 
+                }
+                .responseStream {
+                      height: calc(100vh - 50%);
+                      border-left: 1px dotted #555;
+                      background: #0c0808;
+                      box-shadow: 5px 5px 15px 2px;
+                      overflow-y: scroll;
+/*                    /background: black;*/
+                }    
+                .responseStream p {
+/*                    background: #0c0808;*/
+                    height: 100vh;
+                    padding: 10px;
+                    color: #fff;
+                }
+                .msgHeader {
+                    margin: 10px 0;
+                    font-size: 22px;
+                    background-image: url(bg-msg8.jpg);
+                }
+                .swipeControll {
+                    position: absolute;
+                    right: 57px;
+                    top:50%;
+                    height: 100px;
+                    padding: 45px 0;
+                }
+                 .swipeControll i {
+                    font-size: 28px;
+                }
+                .swipeControll span {
+                   padding: 5px 17px 5px 35px;
+                   margin: -1px 0 0 -12px; 
+                   position: relative;
+                   bottom: 8px;
+                }
+                
+                 .swipeControll i.glyphicon-arrow-up {
+                    position: absolute;
+                    left: 38%;
+                    /* bottom: -20%; */
+                }
+
+                 .swipeControll i.glyphicon-arrow-down {
+                    position:  absolute;
+                    top: 98%;
+                    left: 38%;
+                }
+                button#play {
+                    background-color: #5bc0de;
+                }
+                .form-group span {
+                    padding: 10px;
+                }
+                .downloadFile {
+                    padding: 9px 162px 26px 23px;
+                }
+                

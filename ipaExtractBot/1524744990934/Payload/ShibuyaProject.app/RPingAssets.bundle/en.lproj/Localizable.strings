@@ -1,0 +1,6 @@
+"ping.application-too-old.title" = "Application is too old!";
+"ping.application-too-old.not-supported-anymore(application)" = "We regret to inform you that the version of <application>%@</application> you are running is not supported anymore.";
+"ping.application-too-old.not-available" = "<strong>Not published yet! The button below will open the Rakuten website.</strong>";
+"ping.application-too-old.new-version-available" = "A new version is available for your device. Please update now to make this dialog go away!";
+"ping.application-too-old.os-update-required(version)" = "A new version is available, but it requires <version>iOS %@</version>. Please update your system to continue using this application.";
+"ping.application-too-old.update-application-button.title" = "Update";

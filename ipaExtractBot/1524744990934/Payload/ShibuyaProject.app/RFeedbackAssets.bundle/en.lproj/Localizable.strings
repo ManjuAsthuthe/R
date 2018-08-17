@@ -1,0 +1,73 @@
+/**********************/
+/* Navigation strings */
+/**********************/
+
+"feedback.navigation.close-button.title"   = "Close";
+"feedback.navigation.back-button.title"    = "Back";
+"feedback.navigation.preview-button.title" = "Preview";
+"feedback.navigation.send-button.title"    = "Send";
+
+
+/*********************/
+/* Main menu strings */
+/*********************/
+
+"feedback.main-menu.title"                     = "Send Feedback";
+"feedback.main-menu.rate-application.title"    = "Send Feedback";
+"feedback.main-menu.rate-application.subtitle" = "Send us feedback about your experience";
+"feedback.main-menu.request-feature.title"     = "Request a Feature";
+"feedback.main-menu.request-feature.subtitle"  = "Tell us about a feature you want to see";
+"feedback.main-menu.report-bug.title"          = "Report a Bug";
+"feedback.main-menu.report-bug.subtitle"       = "Let us know about a bug you have encountered";
+
+
+/***********************/
+/* Rating view strings */
+/***********************/
+
+"feedback.rate-application.title"                     = "Rating Feedback";
+"feedback.rate-application.rating-field.title"        = "Rating";
+"feedback.rate-application.comment-field.title"       = "Feedback";
+"feedback.rate-application.comment-field.placeholder" = "Description (Required)";
+
+
+/********************************/
+/* Feature request view strings */
+/********************************/
+
+"feedback.request-feature.title"                     = "Feature Request";
+"feedback.request-feature.feature-field.title"       = "Feature";
+"feedback.request-feature.feature-field.placeholder" = "Feature Title (Required)";
+"feedback.request-feature.comment-field.title"       = "Description";
+"feedback.request-feature.comment-field.placeholder" = "Feature Detail (Optional)";
+
+
+/***************************/
+/* Bug report view strings */
+/***************************/
+
+"feedback.report-bug.title"             = "Bug Report";
+"feedback.report-bug.field.title"       = "Problem";
+"feedback.report-bug.field.placeholder" = "Description (Required)";
+
+
+/************************/
+/* Preview view strings */
+/************************/
+
+"feedback.preview.title"                    = "Preview";
+"feedback.preview.type.title"               = "Type";
+"feedback.preview.type.rating"              = "Rating";
+"feedback.preview.type.feature-request"     = "Feature Request";
+"feedback.preview.type.bug-report"          = "Bug Report";
+"feedback.preview.item.title.title"         = "Title";
+"feedback.preview.item.comment.title"       = "Description";
+"feedback.preview.item.rating.title"        = "Rating";
+"feedback.preview.item.rating.value-format" = "%@/5";
+"feedback.preview.item.attachment.title"    = "Attachment";
+"feedback.preview.app.id.title"             = "Application Identifier";
+"feedback.preview.app.version.title"        = "Application Version";
+"feedback.preview.operating-system.title"   = "Operating System";
+"feedback.preview.device.id.title"          = "Unique Identifier";
+"feedback.preview.device.model.title"       = "Device Model";
+"feedback.preview.region.title"             = "Regional Settings";
